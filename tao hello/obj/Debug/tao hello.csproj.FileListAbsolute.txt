@@ -1,0 +1,71 @@
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\tao hello.dll.config
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\tao hello.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\tao hello.pdb
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\csc.exe
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\csc.exe.config
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\csc.rsp
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\csi.exe
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\csi.exe.config
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\csi.rsp
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.AppContext.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Console.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.IO.Compression.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.IO.Pipes.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Security.Claims.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.ValueTuple.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Xml.XPath.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\vbc.exe
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\vbc.exe.config
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\vbc.rsp
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\VBCSCompiler.exe
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Antlr3.Runtime.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Newtonsoft.Json.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\System.Web.Optimization.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\WebGrease.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\System.Web.Optimization.xml
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Newtonsoft.Json.xml
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Antlr3.Runtime.pdb
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\obj\Debug\tao hello.csprojAssemblyReference.cache
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\obj\Debug\tao hello.csproj.CoreCompileInputs.cache
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\obj\Debug\tao hello.csproj.CopyComplete
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\obj\Debug\tao hello.dll
+C:\Users\caoph\OneDrive\Máy tính\qlbh\hello XD ASP\tao hello\tao hello\obj\Debug\tao hello.pdb
